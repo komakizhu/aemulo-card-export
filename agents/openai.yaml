@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aemulo 卡片导出"
+  short_description: "引导连接 Filza，一键导出全部 Aemulo 卡片并保存到我的 iPhone 根目录"
+  default_prompt: "使用 $aemulo-card-export 引导我连接 Filza，导出全部 Aemulo 卡片，转换为 .nfccards 并保存到我的 iPhone 根目录。"
